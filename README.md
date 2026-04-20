@@ -10,7 +10,6 @@ Atualmente estudando pelo curso **Tech4Jobs**, com foco em:
 - desenvolvimento web
 - lógica de programação
 - construção de interfaces
-- boas práticas de código
 
 ---
 
@@ -34,12 +33,6 @@ Atualmente estudando pelo curso **Tech4Jobs**, com foco em:
 
 ---
 
-## Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
 # Atualmente estudando
 
 - JavaScript  
@@ -54,25 +47,6 @@ Atualmente estudando pelo curso **Tech4Jobs**, com foco em:
 • Projeto X — descrição breve  
 • Projeto Y — descrição breve  
 • Projeto Z — descrição breve  
-
-<!-- Substituir pelos seus projetos reais -->
-
----
-
-# Certificados
-
-Olimpíada Brasileira de Astronomia e Astronáutica (OBA)  
-Emitido em: 01 de outubro de 2023  
-Escola: Jorge Marsh  
-
-<!--
-Adicionar futuramente:
-
-Certificado Tech4Jobs
-Data:
-Instituição:
-
--->
 
 ---
 
@@ -103,15 +77,3 @@ https://www.linkedin.com/in/joaquim-de-almeida-1422593898/
 https://github.com/ja-sisten32  
 
 ---
-
-<!--
-
-Adicionar futuramente:
-
-Currículo:
-https://link-do-curriculo.pdf
-
-Portfólio:
-https://seu-portfolio.com
-
--->
