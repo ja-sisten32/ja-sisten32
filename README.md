@@ -38,32 +38,6 @@ Atualmente estudando pelo curso **Tech4Jobs**, com foco em:
 
 ---
 
-# Projetos em Destaque
-
-• Projeto X — descrição breve  
-• Projeto Y — descrição breve  
-• Projeto Z — descrição breve  
-
----
-
-# Estatísticas
-
-<p align="center">
-
-<img 
-src="https://github-readme-stats.vercel.app/api?username=ja-sisten32&show_icons=true&hide_border=true&theme=dark" 
-height="160"
-/>
-
-<img 
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=ja-sisten32&layout=compact&hide_border=true&theme=dark" 
-height="160"
-/>
-
-</p>
-
----
-
 # Contato
 
 🔗 LinkedIn  
