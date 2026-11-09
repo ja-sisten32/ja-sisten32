@@ -37,13 +37,3 @@ Atualmente estudando pelo curso **Tech4Jobs**, com foco em:
 - Lógica de Programação 🧠  
 
 ---
-
-# Contato
-
-🔗 LinkedIn  
-linkedin.com/in/joaquim-de-almeida-1422593898 
-
-🔗 GitHub  
-github.com/ja-sisten32  
-
----
