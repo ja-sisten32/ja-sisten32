@@ -41,9 +41,9 @@ Atualmente estudando pelo curso **Tech4Jobs**, com foco em:
 # Contato
 
 🔗 LinkedIn  
-https://www.linkedin.com/in/joaquim-de-almeida-1422593898/  
+linkedin.com/in/joaquim-de-almeida-1422593898 
 
 🔗 GitHub  
-https://github.com/ja-sisten32  
+github.com/ja-sisten32  
 
 ---
